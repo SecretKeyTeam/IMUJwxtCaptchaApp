@@ -8,4 +8,8 @@
 * [pytorch/android-demo-app](https://github.com/pytorch/android-demo-app/tree/master/HelloWorldApp)
 * [OkHttp](https://square.github.io/okhttp/)
 ## Collaborators
-{hupeng,zhangpeng}#webprague.com
+
+| name   | Website   | Email  |
+| -------    | ----  | ----  |
+| peng.hu    | https://hupeng.me/ | hupengATwebpraugeDOTcom |
+| peng.zhang | https://zhangpeng.ai/ | zhangpengATwebpraugeDOTcom |
